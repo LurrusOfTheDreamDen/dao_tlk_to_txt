@@ -1,4 +1,4 @@
-# Tlk to txt for DAO
+# Tlk to txt for Dragon Age Origins (DAO)
 
 This code is created to convert DAO tlk files to txt in the following format:
 
